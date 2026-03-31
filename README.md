@@ -24,7 +24,7 @@ The project includes:
 ![Home](screenshots/home.png.png)
 
 ### Hotel Listing Page
-![Hotels](screenshots/hotels.png)
+![Hotels](screenshots/hotels.png.png)
 
 ### Hotel Details Page
 ![Details](screenshots/details.png.png)
