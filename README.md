@@ -21,7 +21,7 @@ The project includes:
 ## 📷 Screenshots
 
 ### Home Page
-![Home](screenshots/booking.png.png)
+![Home](screenshots/home.png (2).png)
 
 ### Hotel Listing Page
 ![Hotels](screenshots/hotels.png)
