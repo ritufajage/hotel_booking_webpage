@@ -30,4 +30,4 @@ The project includes:
 ![Details](screenshots/detalis.png.png)
 
 ### Booking Confirmation Page
-![Booking](screenshots/booking.png)
+![Booking](screenshots/booking.png.png)
