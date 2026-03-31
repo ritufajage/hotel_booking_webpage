@@ -27,7 +27,7 @@ The project includes:
 ![Hotels](screenshots/hotels.png)
 
 ### Hotel Details Page
-![Details](screenshots/details.png)
+![Details](screenshots/detalis.png.png)
 
 ### Booking Confirmation Page
 ![Booking](screenshots/booking.png)
